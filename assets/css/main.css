@@ -83,7 +83,7 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 	body {
-		background-image: linear-gradient(to right, rgb(0, 0, 0, 0.9), rgba(0, 0, 0, 0.5)), url('../../images/full-resized.jpg');
+		background-image: linear-gradient(to right, rgb(0, 0, 0, 0.9), rgba(0, 0, 0, 0.5)), url('../../images/bg-resize.png');
 		height: 100%;
 		background-position: center;
 		background-repeat: no-repeat;
